@@ -1,0 +1,67 @@
+*{
+    margin: 0%;
+}
+.container{
+    width: 100%;
+    border: 1px solid rgba(0, 0, 0, 0.329);
+    background-color: #bdd1de;
+}
+#cabecalho{
+    height: 120px;
+    background-color: rgb(62, 175, 109);
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+a{
+    padding: 30px;
+    list-style-type: none;
+    text-decoration: none;
+    font-size: 35px;
+    color: rgb(40, 40, 211);
+}
+#biografia{
+    display: inline-block;
+}
+.ttltxt{
+    font-size: 50px;
+}
+.txt{
+    font-size: 25px;
+}
+#trescaixas{
+    height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#textoimgs{
+    font-style: oblique;
+}
+#rodape{
+    height: 120px;
+    background-color: rgb(62, 175, 109);
+}
+#principalttl{
+    font-size: 50px;
+}
+#secttl{
+    font-size: 25px;
+}
+#principalstats{
+    font-size: 50px;
+}
+#secstats{
+    font-size: 25px;
+}
+#cond{
+    font-size: 25px;
+}
+#rodapefn{
+    background-color: rgb(62, 175, 109);
+    height: 120px;
+}
+.icon{
+    list-style-type: disc;
+}
