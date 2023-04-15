@@ -1,67 +1,84 @@
-*{
+* {
     margin: 0%;
 }
-.container{
+
+.container {
     width: 100%;
     border: 1px solid rgba(0, 0, 0, 0.329);
     background-color: #bdd1de;
 }
-#cabecalho{
+
+#cabecalho {
     height: 120px;
     background-color: rgb(62, 175, 109);
 }
-ul{
+
+ul {
     display: flex;
     justify-content: center;
 }
-a{
+
+a {
     padding: 30px;
     list-style-type: none;
     text-decoration: none;
     font-size: 35px;
     color: rgb(40, 40, 211);
 }
-#biografia{
+
+#biografia {
     display: inline-block;
 }
-.ttltxt{
+
+.ttltxt {
     font-size: 50px;
 }
-.txt{
+
+.txt {
     font-size: 25px;
 }
-#trescaixas{
+
+#trescaixas {
     height: 300px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
 }
-#textoimgs{
+
+#textoimgs {
     font-style: oblique;
 }
-#rodape{
+
+#rodape {
     height: 120px;
     background-color: rgb(62, 175, 109);
 }
-#principalttl{
+
+#principalttl {
     font-size: 50px;
 }
-#secttl{
+
+#secttl {
     font-size: 25px;
 }
-#principalstats{
+
+#principalstats {
     font-size: 50px;
 }
-#secstats{
+
+#secstats {
     font-size: 25px;
 }
-#cond{
+
+#cond {
     font-size: 25px;
 }
-#rodapefn{
+
+#rodapefn {
     background-color: rgb(62, 175, 109);
     height: 120px;
 }
-.icon{
+
+.icon {
     list-style-type: disc;
 }
